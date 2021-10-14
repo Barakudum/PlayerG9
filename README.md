@@ -1,5 +1,9 @@
 ### Hi there, [PlayerG9][website] 👋
 
+<div style="text-align: center;">
+<img alt="Avatar" height="150px" src="https://cdn.discordapp.com/avatars/499612372395229184/bd998251849493a591dba80e852e7d3d.png" />
+</div>
+  
 [website]: https://playerg9.github.io
 
 ## I'm a Developer!!
