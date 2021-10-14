@@ -7,19 +7,9 @@
 - I’m currently learning everything
 - I’m looking to collaborate with other content creators
 
-<!--### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />-->
-
 ## Known operating systems:
 
-[<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][windows]
+[<img align="left" alt="Windows" width="26px" src="https://www.kim-bewertung.de/wp-content/uploads/2021/06/Windows-10-Icon.png" />][windows]
 [<img align="left" alt="Linux-Mint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/LinuxMint_Nice_Logo.svg/768px-LinuxMint_Nice_Logo.svg.png" />][mint]
 [<img align="left" alt="CentOS7" width="26px" src="https://bero-host.de/img/public/shop/vserver/templates/centos.png" />][centos7]
 
