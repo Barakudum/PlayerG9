@@ -66,6 +66,24 @@
 
 <br/>
 
+
+## Python-Modules
+### [File-Utility.py](https://github.com/PlayerG9/File-Utility.py) (`pip install file-utility` soon)
+simple and advanced file and path utilitys for python
+
+### [PySysTray](https://github.com/PlayerG9/PySysTray#readme) (not pip-installable)
+add custom systray-icons to your project (modified version if moses-palmer/pystray)
+
+### [PyMessageBox](https://github.com/PlayerG9/PyMessageBox#readme) (`pip install messagebox`)
+Messagebox for userinput/useroutput WITHOUT library dependencies like tkinter (partly platform independent | still under development)
+
+### [PyCommandApp](https://github.com/PlayerG9/PyCommandApp#readme) (`pip install commandapp`)
+tool to create a commandline applications easily
+
+### [FixPath.py](https://github.com/PlayerG9/FixPath.py#readme) (`pip install fixpath`)
+fix incorrect user-path-inputs
+
+
 ## Creations
 
 [<img align="left" alt="Skyblock AI.pxl" width="26px" src="https://images.discordapp.net/avatars/706554519676518410/148c6fb26f793331fdadf94d08e3531d.png?size=128" /> <p>Skyblock AI.pxl</p>](https://top.gg/de/bot/706554519676518410)
