@@ -68,19 +68,19 @@
 
 
 ## Python-Modules
-### [File-Utility.py](https://github.com/PlayerG9/File-Utility.py) (`pip install file-utility` soon)
+- [File-Utility.py](https://github.com/PlayerG9/File-Utility.py#readme) (`pip install file-utility` soon)  
 simple and advanced file and path utilitys for python
 
-### [PySysTray](https://github.com/PlayerG9/PySysTray#readme) (not pip-installable)
+- [PySysTray](https://github.com/PlayerG9/PySysTray#readme) (not pip-installable)  
 add custom systray-icons to your project (modified version if moses-palmer/pystray)
 
-### [PyMessageBox](https://github.com/PlayerG9/PyMessageBox#readme) (`pip install messagebox`)
+- [PyMessageBox](https://github.com/PlayerG9/PyMessageBox#readme) (`pip install messagebox`)  
 Messagebox for userinput/useroutput WITHOUT library dependencies like tkinter (partly platform independent | still under development)
 
-### [PyCommandApp](https://github.com/PlayerG9/PyCommandApp#readme) (`pip install commandapp`)
+- [PyCommandApp](https://github.com/PlayerG9/PyCommandApp#readme) (`pip install commandapp`)  
 tool to create a commandline applications easily
 
-### [FixPath.py](https://github.com/PlayerG9/FixPath.py#readme) (`pip install fixpath`)
+- [FixPath.py](https://github.com/PlayerG9/FixPath.py#readme) (`pip install fixpath`)  
 fix incorrect user-path-inputs
 
 
