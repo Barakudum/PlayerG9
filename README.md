@@ -2,10 +2,10 @@
 
 <div style="width: 100%; text-align: center">
     <a href="https://playerg9.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=PlayerG9&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+        <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PlayerG9&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
     </a>
     <a href="https://playerg9.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerG9&layout=compact&theme=vue-dark&langs_count=8" />
+        <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerG9&layout=compact&theme=vue-dark&langs_count=8" />
     </a>
 </div>
 <div style="display: inline_block"><br>
