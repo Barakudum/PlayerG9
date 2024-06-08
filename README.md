@@ -15,3 +15,11 @@
  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </div>
+
+<hr/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PlayerG9/PlayerG9/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PlayerG9/PlayerG9/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PlayerG9/PlayerG9/output/github-snake.svg" />
+</picture>
